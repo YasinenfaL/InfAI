@@ -19,7 +19,7 @@ InfAI is a data analysis tool with an agent-based architecture. This project all
 ## 🛠️ Setup
 
 ```bash
-git clone https://github.com/kullanici_adi/infai.git
+git clone git@github.com:YasinenfaL/InfAI.git
 cd infai
 pip install -r requirements.txt
 streamlit run app.py
