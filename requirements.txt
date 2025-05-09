@@ -1,0 +1,9 @@
+warnings
+pandas
+langchain_experimental
+langchain
+streamlit
+python-dotenv
+matplotlib
+seaborn
+glob
